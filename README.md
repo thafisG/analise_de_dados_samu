@@ -14,7 +14,7 @@ O principal objetivo deste projeto é avaliar o desempenho do SAMU em 2023 e ide
 
 ## 🔗 Acesso ao Dashboard
 
-Confira os detalhes da análise: [dashboard interativo](https://lnkd.in/dJMG6fp5).
+Confira os detalhes da análise: [dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiZjU4ZWMxZjgtNjJhMi00OWUwLTlhOGItMzVlZGRlNDFhOGM5IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9).
 
 ## 👥 Colaboradores do Projeto
 
